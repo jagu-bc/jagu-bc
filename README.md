@@ -3,7 +3,7 @@
 - 💪🏽 Strong skills in Nodejs
 - 📫 How to reach me
   - Email: jagu@blockchain.com
-  - Slack: Juan agu
+  - Slack: Juan Agu
 
 <!---
 jagu-bc/jagu-bc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
