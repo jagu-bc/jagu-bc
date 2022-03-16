@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Juan! Im a Software Engineer 
-- 🌱 I’m currently learning Kotlin and event-driven architectures.
+- 🌱 I’m currently learning Kotlin, Kafka and event-driven architectures.
 - 💪🏽 Strong skills in Nodejs
 - 📫 How to reach me
   - Email: jagu@blockchain.com
