@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Juan! Im a Software Engineer 
+- 👋 Hi, I’m Juan! Im a Software Engineer and Team Leader
 - 🌱 I’m currently learning Kotlin, Kafka and event-driven architectures.
+- 🧑🏻‍💻 Im working on new payment service in nabu payments
 - 💪🏽 Strong skills in Nodejs
 - 📫 How to reach me
   - Email: jagu@blockchain.com
